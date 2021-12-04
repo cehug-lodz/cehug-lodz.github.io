@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on C/Embedded/Hardware User Group</title>
+    <link>https://cehug-lodz.github.io/posts/</link>
+    <description>Recent content in Posts on C/Embedded/Hardware User Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Dec 2021 17:15:32 +0100</lastBuildDate><atom:link href="https://cehug-lodz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://cehug-lodz.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 04 Dec 2021 17:15:32 +0100</pubDate>
+      
+      <guid>https://cehug-lodz.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
