@@ -4,6 +4,7 @@ title: "Zaproszenie na prezentację Hackerspace Łódź: Automatyzacja i IoT w p
 author: "CEHUG"
 ---
 Cześć,
+
 zapraszamy na kolejne spotkanie - **24 stycznia, godzina 18:00, 6 dzielnica**.
 
 Na naszym kolejnym spotkaniu będziemy gościć [Hackerspace Łódź](https://lodz.hackerspace.pl/), który odwiedzi nas, aby wygłosić prezentację o tematyce internetu rzeczy (IoT). Skupimy się na różnorodnych inicjatywach, z którymi się zetknęli w Hackerspace, ze szczególnym naciskiem na jeden z ich flagowych projektów - zamek z wykorzystaniem technologii TOTP (time-based one-time password). Razem przeanalizujemy, jakie technologie zostały użyte, jaki był początkowy zamysł projektu, oraz jak to wszystko wpisuje się w misję Hackerspace Łódź - eksperymentowanie z nowoczesnymi rozwiązaniami technologicznymi. Zapraszamy, aby zobaczyć, jak automatyzują oni swój warsztat.
